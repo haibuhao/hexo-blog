@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,ae as o}from"./chunks/framework.EHGTsUvI.js";const p=JSON.parse('{"title":"欢迎","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"};function n(s,e,l,d,_,c){return t(),r("div",null,[...e[0]||(e[0]=[o("",4)])])}const m=a(i,[["render",n]]);export{p as __pageData,m as default};
